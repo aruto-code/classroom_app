@@ -1,5 +1,3 @@
-//import { Outlet, Link } from "react-router-dom";
-
 import "../css/sb-admin-2.min.css";
 import "../vendor/fontawesome-free";
 import { Link } from "react-router-dom";
